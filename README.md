@@ -1,4 +1,4 @@
-# calculator11
+# Neuron labs Task-1 Calculator
 
 A new Flutter project.
 
@@ -33,7 +33,7 @@ Take care and talk to you soon.
 
 Best regards,
 
-[Your Name]
+[Sahil Singh Shan]
 
 ## Getting Started
 
